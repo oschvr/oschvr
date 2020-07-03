@@ -1,16 +1,68 @@
-### Hi there 👋
+### hello stranger 👋
 
-<!--
-**oschvr/oschvr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Oscar, a web/mobile developer 📱, software engineer ⚙️, and cloud architect 🌥 based in London, UK 🇬🇧
 
-Here are some ideas to get you started:
+🔭 I'm currently working as a Fullstack (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+$ npx oschvr
+ __________________________________________________
+|  ______________________________________________  |
+| |                                              | |
+| |            Oscar Chavez / oschvr             | |
+| |                                              | |
+| |        Cloud 🌥 & Software 🛠 Engineer       | |
+| |                                              | |
+| |   Twitter 🐦:  https://twitter.com/oschvr    | |
+| |   Github 🐙:   https://github.com/oschvr     | |
+| |   Email 📧:    oschvr@protonmail.com         | |
+| |   Web 💻:      https://oschvr.com            | |
+| |                                              | |
+| |______________________________________________| |
+|__________________________________________________|
+
+```
+### more about me 👇
+
+🌱 I'm currently learning Go, Terraform, Kubernetes, the ways of the DevOps / Cloud Architect and more on AWS.
+
+🤔 Ask me about: 
+
+- **Web Development**
+	- Javascript, HTML, CSS
+	- ES6 Syntax, npm, Webpack
+	- React, React Native, Redux, Expo
+	- Node.js, Express 
+	- Bootstrap, Antd, Tailwind
+
+- **Programming**
+	- Javascript, SQL, Go
+	
+- **Virtualization & Containerization**
+	- Virtual Machines, Docker, Kubernetes
+
+- **Operative Systems**
+	- Linux, macOS, Android
+	
+- **Code Editors & Terminals**
+	- VSCode, vim
+	- Bash, Fish
+	- iTerm, tmux
+	
+- **Cloud Providers & Services**
+	- AWS:
+		- Certifications 
+		- Services: 
+			- EC2
+			- ELB
+			- S3
+			- VPC
+			- IAM
+			- Route53
+			- ECR
+			- WAF
+			- Cloudfront
+			- Cloudwatch
+			- Lambda
+			- DynamoDB
+
