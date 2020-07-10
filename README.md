@@ -1,6 +1,6 @@
 ### Hi there, I'm Oscar 👋
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
+[!https://img.shields.io/twitter/follow/oschvr?style=social](https://twitter.com/oschvr) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
 
 A web/mobile developer 📱, software engineer ⚙️, and cloud architect 🌥 based in London, UK 🇬🇧
 
