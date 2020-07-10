@@ -8,13 +8,12 @@
 <a href="https://github.com/oschvr/card">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=card" />
 </a>
-<a href="https://github.com/oschvr/blog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=blog" />
+<a href="https://github.com/oschvr/ama">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=ama" />
 </a>
-
+</br>
 
 ---
-
 
 ### More about me 👇
 
