@@ -9,10 +9,10 @@
 #####  Hit `npx oschvr` for more 😎 or generate your own 👇
 
 <a href="https://github.com/oschvr/card">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=oschvr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=card" />
 </a>
 <a href="https://github.com/oschvr/card">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=oschvr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=card" />
 </a>
  
 ### More about me 👇
