@@ -11,13 +11,11 @@
 <a href="https://github.com/oschvr/card">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=card" />
 </a>
-<a href="https://github.com/oschvr/ama">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=ama" />
+<a href="https://github.com/oschvr/blog">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=blog" />
 </a>
- 
-[![Ask something !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
 
- 
+
 ### More about me 👇
 
 - I'm currently learning Go, Terraform, Kubernetes, the ways of the DevOps / Cloud Architect and more on AWS. 🌱 
