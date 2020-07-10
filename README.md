@@ -6,8 +6,6 @@
 - A Software Engineer ⚙️, and Cloud Architect 🌥 based in London, UK 🇬🇧
 - I'm currently working as a Software (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=card)](https://gitHub.com/oschvr/card)
- 
 [![Ask something !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
 
  
