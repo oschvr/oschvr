@@ -1,37 +1,19 @@
 ### Hi there, I'm Oscar 👋
 
-[![Follow Me](https://img.shields.io/twitter/follow/oschvr?style=social)](https://twitter.com/oschvr) 
-[![Follow Me](https://img.shields.io/github/followers/oschvr?style=social)](https://github.com/oschvr) 
+[![Follow Me](https://img.shields.io/twitter/follow/oschvr?style=social)](https://twitter.com/oschvr)  [![Follow Me](https://img.shields.io/github/followers/oschvr?style=social)](https://github.com/oschvr) 
+
+- A Software Engineer ⚙️, and Cloud Architect 🌥 based in London, UK 🇬🇧
+- I'm currently working as a Software (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
+
+#####  Hit `npx oschvr` for more 😎
+ 
+### More about me 👇
+
+- I'm currently learning Go, Terraform, Kubernetes, the ways of the DevOps / Cloud Architect and more on AWS. 🌱 
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
 
-A web/mobile developer 📱, software engineer ⚙️, and cloud architect 🌥 based in London, UK 🇬🇧
-
-🔭 I'm currently working as a Fullstack (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
-
-```
-$ npx oschvr
- __________________________________________________
-|  ______________________________________________  |
-| |                                              | |
-| |            Oscar Chavez / oschvr             | |
-| |                                              | |
-| |        Cloud 🌥 & Software 🛠 Engineer       | |
-| |                                              | |
-| |   Twitter 🐦:  https://twitter.com/oschvr    | |
-| |   Github 🐙:   https://github.com/oschvr     | |
-| |   Email 📧:    oschvr@protonmail.com         | |
-| |   Web 💻:      https://oschvr.com            | |
-| |                                              | |
-| |______________________________________________| |
-|__________________________________________________|
-
-```
-### more about me 👇
-
-🌱 I'm currently learning Go, Terraform, Kubernetes, the ways of the DevOps / Cloud Architect and more on AWS.
-
-🤔 Ask me about: 
+- Ask me about 🤔 
 
 - **Web Development**
 	- Javascript, HTML, CSS
