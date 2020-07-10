@@ -1,20 +1,18 @@
 ### Hi there, I'm Oscar 👋
 
 [![Follow Me](https://img.shields.io/twitter/follow/oschvr?style=social)](https://twitter.com/oschvr)  [![Follow Me](https://img.shields.io/github/followers/oschvr?style=social)](https://github.com/oschvr) 
+---
 
-- I'm a Software Engineer ⚙️, and Cloud Architect 🌥 based in London, UK 🇬🇧
+- A Software Engineer ⚙️, and Cloud Architect 🌥 based in London, UK 🇬🇧
 - I'm currently working as a Software (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
 
 <a href="https://github.com/oschvr/card">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=card" />
 </a>
-<a href="https://github.com/oschvr/ama">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=ama" />
-</a>
-</br>
+ 
+[![Ask something !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
 
----
-
+ 
 ### More about me 👇
 
 - I'm currently learning Go, Terraform, Kubernetes, the ways of the DevOps / Cloud Architect and more on AWS. 🌱 
