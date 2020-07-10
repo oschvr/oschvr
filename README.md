@@ -1,6 +1,8 @@
-### hello stranger 👋
+### Hi there, I'm Oscar 👋
 
-I'm Oscar, a web/mobile developer 📱, software engineer ⚙️, and cloud architect 🌥 based in London, UK 🇬🇧
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
+
+A web/mobile developer 📱, software engineer ⚙️, and cloud architect 🌥 based in London, UK 🇬🇧
 
 🔭 I'm currently working as a Fullstack (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
 
@@ -50,19 +52,6 @@ $ npx oschvr
 	- iTerm, tmux
 	
 - **Cloud Providers & Services**
-	- AWS:
-		- Certifications 
-		- Services: 
-			- EC2
-			- ELB
-			- S3
-			- VPC
-			- IAM
-			- Route53
-			- ECR
-			- WAF
-			- Cloudfront
-			- Cloudwatch
-			- Lambda
-			- DynamoDB
+	- AWS: Certifications, Services: EC2, ELB, S3, VPC, IAM, Route53, ECR, WAF, Cloudfront, Cloudwatch, Lambda, DynamoDB
+
 
