@@ -1,9 +1,10 @@
 ### Hi there, I'm Oscar 👋
 
 [![Follow Me](https://img.shields.io/twitter/follow/oschvr?style=social)](https://twitter.com/oschvr)  [![Follow Me](https://img.shields.io/github/followers/oschvr?style=social)](https://github.com/oschvr) 
+
 ---
 
-- A Software Engineer ⚙️, and Cloud Architect 🌥 based in London, UK 🇬🇧
+- I'm a Software Engineer ⚙️, and Cloud Architect 🌥 based in London, UK 🇬🇧
 - I'm currently working as a Software (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
 
 #####  Hit `npx oschvr` for more 😎 or generate your own 👇
@@ -14,6 +15,8 @@
 <a href="https://github.com/oschvr/blog">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=oschvr&repo=blog" />
 </a>
+
+
 
 
 
