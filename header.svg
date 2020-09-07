@@ -81,14 +81,14 @@
         }
 
         p {
-          font-size: 20px;
+          font-size: 25px;
           text-shadow: 0 1px 0 #efefef;
-          animation: 5s ease 0s normal forwards 1 fadeIn;
+          animation: 3s ease 0s normal forwards 1 fadeIn;
         }
       </style>
       <div class="container">
-				<h1>oschvr 👨🏻‍💻<br/>cloud &amp; software engineer</h1>
-				<p>follow me on twitter !</p>
+				<h1>oschvr 👨🏻‍💻<br/></h1>
+				<p>cloud &amp; software engineer</p>
       </div>
     </div>
   </foreignObject>
