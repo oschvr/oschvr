@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://oschvr.com">
-		<img src="header.svg" width="800" height="300">
+		<img src="https://raw.githubusercontent.com/oschvr/oschvr/master/header.svg" width="800" height="300">
 	</a>
 	<br>
 </div>
