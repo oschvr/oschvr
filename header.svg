@@ -50,7 +50,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-image: radial-gradient(circle farthest-corner at 10% 20%, #55d957 0%, #28d1ab 90%);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
@@ -77,8 +77,8 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<h1>oschvr 👨🏻‍💻</h1>
+        <p>sofware & cloud engineer</p>
 			</div>
 		</div>
 	</foreignObject>
