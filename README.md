@@ -7,11 +7,12 @@
 </div>
 
 
-[![Follow Me](https://img.shields.io/twitter/follow/oschvr?style=social)](https://twitter.com/oschvr)  [![Follow Me](https://img.shields.io/github/followers/oschvr?style=social)](https://github.com/oschvr) 
+[![Follow Me](https://img.shields.io/twitter/follow/oschvr?style=social)](https://twitter.com/oschvr)  [![Follow Me](https://img.shields.io/github/followers/oschvr?style=social)](https://github.com/oschvr) [![Follow Me](https://img.shields.io/mastodon/follow/109298225563075500?domain=https%3A%2F%2Fmastodon.online%2F&style=social)](https://mastodon.online/@oschvr)
 ---
 
-- I'm a Software Engineer ⚙️, and Cloud Architect 🌥 based in London, UK 🇬🇧
-- I'm currently working as a Software (Frontend) & Cloud Engineer (DevOps) at [Lean](https://leantech.me)
+- I'm a Software|Cloud|Platform Engineer ⚙️🌥 based in London, UK 🇬🇧
+- I'm currently working as a Senior Software Engineer (DevOps/SRE/Platform) at [Lean](https://leantech.me)
+- I'm a Certified Kubernetes Administrator by Linux Foundation & Certified Solutions Architect by AWS 📜
 
 [![Ask something !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
 
