@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://oschvr.com">
-		<img src="https://raw.githubusercontent.com/oschvr/oschvr/master/header.svg" width="600" height="200">
+		<img src="https://raw.githubusercontent.com/oschvr/oschvr/master/header.svg" width="800" height="300">
 	</a>
 	<br>
 </div>
@@ -12,8 +12,10 @@
 
 - I'm a Senior Software/Cloud Engineer ⚙️🌥 based between Brussels, BE 🇧🇪 and London, UK 🇬🇧
 - I'm a Certified Kubernetes Administrator by Linux Foundation & Certified Solutions Architect by AWS 📜
+- More: [oschvr.com](oschvr.com)
 
 [![Ask something !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
+
 
  
 ### More about me 👇
