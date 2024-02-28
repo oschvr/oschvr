@@ -45,5 +45,3 @@
 		- AWS: Amazon Web Services - Advanced
 		- OCI: Oracle Cloud Infrastructure - Advanced
     		- GCP: Google Cloud Platform - Intermediate
-
-![oschvr's github stats](https://github-readme-stats.vercel.app/api?username=oschvr&show_icons=true)
