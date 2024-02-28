@@ -12,7 +12,7 @@
 
 - I'm a Senior Software/Cloud Engineer ⚙️🌥 based between Brussels, BE 🇧🇪 and London, UK 🇬🇧
 - I'm a Certified Kubernetes Administrator by Linux Foundation & Certified Solutions Architect by AWS 📜
-- More: [oschvr.com](oschvr.com)
+- More: [oschvr.com](https://oschvr.com)
 
 [![Ask something !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
 
