@@ -18,7 +18,7 @@
  
 ### More about me 👇
 
-- I'm currently learning Go, Terraform, Kubernetes, the ways of the DevOps / Cloud Architect and more on AWS. 🌱 
+- I'm currently learning Python & GCP 🌱 
 - Ask me about 🤔 
 
 	- **Web Development**
