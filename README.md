@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://oschvr.com">
-		<img src="https://raw.githubusercontent.com/oschvr/oschvr/master/header.svg" width="800" height="300">
+		<img src="https://raw.githubusercontent.com/oschvr/oschvr/master/header.svg" width="600" height="200">
 	</a>
 	<br>
 </div>
@@ -44,4 +44,4 @@
 	- **Cloud Providers & Services**
 		- AWS: Amazon Web Services - Advanced
 		- OCI: Oracle Cloud Infrastructure - Advanced
-    		- GCP: Google Cloud Platform - Intermediate
+		- GCP: Google Cloud Platform - Intermediate
