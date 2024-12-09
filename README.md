@@ -6,12 +6,13 @@
 	<br>
 </div>
 
-
-[![Follow Me](https://img.shields.io/twitter/follow/oschvr?style=social)](https://twitter.com/oschvr)  [![Follow Me](https://img.shields.io/github/followers/oschvr?style=social)](https://github.com/oschvr) [![Follow Me](https://img.shields.io/mastodon/follow/109298225563075500?domain=https%3A%2F%2Fmastodon.online%2F&style=social)](https://mastodon.online/@oschvr)
 ---
 
 - I'm a Senior Software/Cloud Engineer ⚙️🌥 based between Brussels, BE 🇧🇪 and London, UK 🇬🇧
-- I'm a Certified Kubernetes Administrator by Linux Foundation & Certified Solutions Architect by AWS 📜
+- I'm also a:
+	- [Professional Cloud Architect (PCA) by Google Cloud](https://www.credly.com/badges/4fc8840e-243d-45d4-93ff-d403262b31f2/linked_in_profile)
+	- [Certified Kubernetes Administrator (CKA) by Linux Foundation](https://www.credly.com/badges/765a883e-2df2-4457-9c8d-701e8740f23a/linked_in_profile)
+	- [Certified Solutions Architect by Amazon Web Services](https://www.credly.com/badges/f915e2ab-869c-4ab5-936b-3d37f7e5748c)
 - More: [oschvr.com](https://oschvr.com)
 
 [![Ask something !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://gitHub.com/oschvr/ama)
@@ -20,18 +21,18 @@
  
 ### More about me 👇
 
-- I'm currently learning Python & GCP 🌱 
-- Ask me about 🤔 
+- I'm currently learning (more) Python 🌱 
+- Ask me about: 🤔 
 
 	- **Web Development**
 		- Javascript, HTML, CSS
 		- ES6 Syntax, npm, Webpack
-		- React, React Native, Redux, Expo
+		- React, React Native, Expo
 		- Node.js, Express 
 		- Bootstrap, Tailwind
 
 	- **Programming**
-		- Javascript, SQL, Go, Python
+		- Javascript, Python, SQL, Go
 
 	- **Virtualization & Containerization**
 		- Virtual Machines, Docker, Kubernetes
